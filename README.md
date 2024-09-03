@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and artificial intelligence
 - 🌱 I’m currently learning Typescript and C# 
 - 💞️ I’m looking to collaborate on any project, learning can happen everywhere.
-- 📫 How to reach me through email @mikiastadesse83@gmail.com 
+- 📫 Reach me through email @mikiastadesse83@gmail.com 
 
 <!---
 mike446/mike446 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
