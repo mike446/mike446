@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ I'm Mikias Tadesse<br><br>🎒B.S of C.S at Kennesaw State University 20205 <br>💻 Associate Application Developer @ADP<br>📋 Love to learn new software and tools<br>🔎 Currently trying to learn the intersection of hardware and software
+⭐ I'm Mikias Tadesse<br><br>🎒B.S of C.S at Kennesaw State University 2025 <br>💻 Associate Application Developer @ADP<br>📋 Love to learn new software and tools<br>🔎 Currently trying to learn the intersection of hardware and software
 
 
 ## 🌐 Socials:
